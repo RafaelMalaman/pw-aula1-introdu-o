@@ -1,2 +1,2 @@
-# pw-aula1-introdu-o
+# pw-aula1-introducao
 Aprofundamentos básicos de React
